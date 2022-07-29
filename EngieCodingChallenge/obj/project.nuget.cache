@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dCQc3rF/TolrfQpJyqXdCkSgj4JCTt+dMZJMLH941TE/P5z4F69hcIK7iRRMAkDV8HZpyvgu5sf4l/vI7ifEfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sakrouch\\source\\repos\\EngieCodingChallenge\\EngieCodingChallenge\\EngieCodingChallenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sakrouch\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sakrouch\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sakrouch\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\sakrouch\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sakrouch\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sakrouch\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sakrouch\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
